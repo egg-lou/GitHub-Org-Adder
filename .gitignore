@@ -1,0 +1,4 @@
+.venv/
+.env
+dcc_done.csv
+dcc_raw.csv
